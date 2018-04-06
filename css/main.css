@@ -440,7 +440,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .label {
   display: inline;
   padding: .25em .6em;
-  font-size: 75%;
+  font-size: 100%;
   font-weight: 500;
   line-height: 1;
   color: #ffffff;
